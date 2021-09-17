@@ -36,7 +36,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>inside outt</h1>
+      <h1>fruit maniaa</h1>
       <input onChange={changeHandler}></input>
       <div className="emotion">{meaning}</div>
       <h3>fruit's we know..</h3>
