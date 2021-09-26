@@ -6,7 +6,12 @@ const fruits = {
   "🍈": "Melon",
   "🍉": "Watermelon",
   "🍊": "Tangerine",
-  "🍋": "Lemon"
+  "🍋": "Lemon",
+  "🍓": "Strawberry",
+  "🥭": "Mango",
+  "🍍":"Pineapple",
+  "🍌": "Banana",
+  "🍒": "Cherries"
 };
 
 const symbols = Object.keys(fruits);
